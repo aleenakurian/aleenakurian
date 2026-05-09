@@ -3,8 +3,8 @@
 
   <p align="center">
     <img src="https://img.shields.io/badge/Read-121011?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Game-121011?style=for-the-badge&logo=nintendo-switch&logoColor=white" />
-    <img src="https://img.shields.io/badge/Code-121011?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    <img src="https://img.shields.io/badge/Game-121011?style=for-the-badge&logo=nintendoswitch&logoColor=white" />
+    <img src="https://img.shields.io/badge/Code-121011?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   </p>
 </div>
 
