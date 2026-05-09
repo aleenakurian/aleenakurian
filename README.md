@@ -1,5 +1,5 @@
 ### Hi there!
-I do coding and math as hobbies. I read and game, too!
+My hobbies include coding and math. I read and game, too!
 
 Here is my skillset!
 
