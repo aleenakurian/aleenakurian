@@ -1,8 +1,5 @@
 <div align="center">
   <h1>Hi there! I'm Aleena. </h1>
-  <p align="center">
-    <strong>Software Engineer</strong>
-  </p>
 
   <p align="center">
     <img src="https://img.shields.io/badge/Read-121011?style=for-the-badge&logo=github&logoColor=white" />
