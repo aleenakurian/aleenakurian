@@ -1,12 +1,5 @@
 <div align="center">
   <h1>Hi there! I'm Aleena. </h1>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/Game-121011?style=for-the-badge&logo=steam&logoColor=white" />
-    <img src="https://custom-icon-badges.demolab.com/badge/Code-121011?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-    <img src="https://img.shields.io/badge/Read-121011?style=for-the-badge&logo=goodreads&logoColor=white" />
-    
-  </p>
 </div>
 
 ### Languages & Core Tech
